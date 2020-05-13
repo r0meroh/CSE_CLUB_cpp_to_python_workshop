@@ -18,7 +18,7 @@ class worker(person):
 
     # accessors
     def get_occupation(self):
-        return self.occupation
+        return occupation
 
     # mutators
     def set_occupation(occupation):

@@ -24,7 +24,7 @@ def main():
             name = person(name, age)
             people.append(name)
             print('the following person was added:' )
-            fun.display_person(name)
+            fun.dispay_person(name)
 
         elif answer == 'WORKER':
             name = input('Enter name of worker\n:')

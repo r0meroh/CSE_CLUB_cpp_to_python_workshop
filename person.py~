@@ -28,11 +28,11 @@ class person:
 
     # get name
     def get_name(self):
-        return self.name
+        return name
 
     # get age
     def get_age(self):
-        return self.age
+        return age
 
     #mutators
 
